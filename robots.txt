@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramji247.com/sitemap.xml
+
